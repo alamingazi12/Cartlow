@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CartFlow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_text">Sign In</string>
+    <string name="signup_text">Create Account</string>
+    <string name="edit_text">Create Account</string>
+    <string name="heading_para">Sign in to access orders,wishlists and recommendations </string>
+</resources>
